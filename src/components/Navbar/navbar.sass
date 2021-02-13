@@ -1,0 +1,35 @@
+
+$sm: (max-width: 600px)
+
+.logo
+    width: 100%
+    height: auto
+    margin: 80px 0px
+    padding: 30px
+    @media #{$sm}
+        margin: 60px 0 0 0
+    .wrap-logo
+        width: 100%
+        margin: auto
+        .img-logo
+            display: flex
+            justify-content: center
+            img
+                width: 700px
+                --animate-repeat: 2
+                @media #{$sm}
+                    width: 300px
+        .txt-logo
+            display: flex
+            justify-content: center
+            margin-top: 20px
+            p
+                color: white
+                font-size: 30px
+                font-weight: 100
+                @media #{$sm}
+                    font-size: 16px
+                    padding: 10px
+                    text-align: center
+
+

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbb1c4bb.chunk.css",
+    "main.js": "/static/js/main.6fbee334.chunk.js",
+    "main.js.map": "/static/js/main.6fbee334.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9c5d8ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9c5d8ae.js.map",
+    "static/js/2.354f5555.chunk.js": "/static/js/2.354f5555.chunk.js",
+    "static/js/2.354f5555.chunk.js.map": "/static/js/2.354f5555.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dbb1c4bb.chunk.css.map": "/static/css/main.dbb1c4bb.chunk.css.map",
+    "static/js/2.354f5555.chunk.js.LICENSE.txt": "/static/js/2.354f5555.chunk.js.LICENSE.txt",
+    "static/media/Logo.7702ccc3.svg": "/static/media/Logo.7702ccc3.svg",
+    "static/media/brujula.660930d8.svg": "/static/media/brujula.660930d8.svg",
+    "static/media/calendario.4a18bcc1.png": "/static/media/calendario.4a18bcc1.png",
+    "static/media/cinta-metrica.bae19425.svg": "/static/media/cinta-metrica.bae19425.svg",
+    "static/media/megafono.d36dfb2a.svg": "/static/media/megafono.d36dfb2a.svg",
+    "static/media/profundidad.8bbdf82c.png": "/static/media/profundidad.8bbdf82c.png",
+    "static/media/terremoto2.45310ea7.svg": "/static/media/terremoto2.45310ea7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c5d8ae.js",
+    "static/js/2.354f5555.chunk.js",
+    "static/css/main.dbb1c4bb.chunk.css",
+    "static/js/main.6fbee334.chunk.js"
+  ]
+}
